@@ -1,5 +1,4 @@
 import { useState } from "react";
-import React from 'react';
 import { CORE_COMPANIES } from "../data.js";
 import Companies from "../Components/Companies";
 import TabButton from "../Components/TabBox.jsx";
